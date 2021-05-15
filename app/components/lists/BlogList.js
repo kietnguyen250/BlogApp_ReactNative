@@ -21,7 +21,7 @@ const BlogList = ({route}) => {
 const styles = StyleSheet.create({
   headerContainer: {
     width: '100%',
-    height: 70,
+    height: 50,
     justifyContent: 'center',
     alignItems: 'center',
     // marginTop: StatusBar.currentHeight,

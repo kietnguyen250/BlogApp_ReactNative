@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
   },
   viewMore: {
     width: width / 2,
-    height: 200,
+    height: 240,
   },
 });
 

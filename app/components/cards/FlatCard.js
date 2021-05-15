@@ -52,7 +52,6 @@ const styles = StyleSheet.create({
   metadata: {
     flexDirection: 'row',
     alignItems: 'center',
-    marginTop: 1,
   },
 });
 

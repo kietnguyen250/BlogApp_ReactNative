@@ -36,6 +36,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     overflow: 'hidden',
     backgroundColor: 'white',
+    position: 'relative',
   },
   image: {
     width: '100%',
@@ -48,6 +49,8 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     marginTop: 5,
+    position: 'absolute',
+    bottom: 8,
   },
 });
 
